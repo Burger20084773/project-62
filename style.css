@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: aqua
+}
+
+#logo {
+    width: 250px;
+    height: 100px;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
